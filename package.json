@@ -1,0 +1,33 @@
+{
+  "name": "@x-system/font-convertor",
+  "version": "0.0.1",
+  "description": "ttf to (woff|woff2) for gulp4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "tierey",
+    "email": "ixitixixi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tierey/x-system-font-convertor.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/Tierey/x-system-font-convertor",
+  "license": "MIT",
+  "deprecated": "in process",
+  "dependencies": {
+    "colors": "*",
+    "gulp": "*",
+    "through2": "*",
+    "vinyl": "*",
+    "opentype.js": "*",
+    "wawoff2": "*",
+    "ttf2woff": "*"
+  }
+}
