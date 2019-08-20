@@ -1,6 +1,6 @@
 {
   "name": "@x-system/font-convertor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ttf to (woff|woff2) for gulp4",
   "main": "index.js",
   "scripts": {
