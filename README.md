@@ -3,7 +3,7 @@
 
 const gulp           = require(`gulp`);
 
-const fontConvertor  = require(`./index`); // gulp 4 function
+const fontConvertor  = require(`@x-system/font-convertor`); // gulp 4 function
 
 let options = {
     src  : [`./ttf/*.ttf`], // path to .ttf files
