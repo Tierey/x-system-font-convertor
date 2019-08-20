@@ -1,12 +1,11 @@
 {
   "name": "@x-system/font-convertor",
-  "version": "0.0.3",
-  "description": "ttf to (woff|woff2) for gulp4",
+  "version": "0.0.4",
+  "description": "convert .ttf to ( .woff | .woff2 ) by gulp4",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["gulp","gulp4","ttf","woff","woff2","@x-system","convert","font","@font-face","wawoff","ttf2woff"],
   "author": {
     "name": "tierey",
     "email": "ixitixixi@gmail.com"
@@ -20,7 +19,7 @@
   },
   "homepage": "https://github.com/Tierey/x-system-font-convertor",
   "license": "MIT",
-  "deprecated": "in process",
+  "deprecated": "in process (inner project)",
   "dependencies": {
     "colors": "*",
     "gulp": "*",
